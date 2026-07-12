@@ -1,51 +1,49 @@
-# 📦 NKND-KHKT (Archived)
+<div align="center">
 
-> Here are some stuffs for my school's project.
+# 🌸 NKND-KHKT
 
----
+*📦 Archived Repository*
 
-## 📖 About
+> *"Every project has an ending, but every ending marks a new beginning."*
 
-This repository contains materials, source code, documentation, and other resources developed for my school science and engineering project.
+Made with ☕, 💻 and a little bit of curiosity.
 
-The contents are preserved for reference and archival purposes.
+</div>
 
 ---
 
 ## 👤 Author
 
-- **@Ayako**
+**@Ayako**
 
----
+## 📝 Description
+
+This repository contains some resources, source code, and documents created for my school's science project.
+
+Hopefully, they can be useful for anyone who stops by. 🌷
 
 ## 📌 Status
 
-> **Archived**
+> **🗃️ Archived**
 
-This project has been completed. Therefore, this repository has been archived, and **no further updates, bug fixes, or maintenance will be provided**.
+This project has officially come to an end.
 
-Feel free to browse the source code and documentation for learning or reference purposes.
+I won't be updating, maintaining, or fixing anything in this repository anymore.
+Everything here will remain as a little memory of the project. 🌸
 
----
+## 💌 Note
 
-## 📂 Repository Contents
+If you're here out of curiosity...
+Welcome, and thank you for stopping by!
 
-- 📄 Documentation
-- 💻 Source Code
-- 📑 Reports
-- 📷 Images & Resources
-- 📁 Other project-related files
-
----
-
-## 📜 License
-
-This repository is provided for educational and reference purposes only.
+Have a wonderful day. ✨
 
 ---
 
 <div align="center">
 
-**Thank you for visiting this repository.** 🌸
+**Made with ❤️ by @Ayako**
+
+*"See you in another project."* 🌙
 
 </div>
